@@ -1,0 +1,39 @@
+h1, p{
+	display: inline-block;
+}
+.box{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+.box1{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	margin: 100px;
+
+}
+.box2{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+.box3{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	margin: 30px 50px 20px;
+
+}
+.box4{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+}
+.box5{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	padding: 50px;
+
+}
